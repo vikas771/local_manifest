@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="AdarshGrewal/vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" remote="github" revision="statix" />
+    <project name="AdarshGrewal/device_xiaomi_davinci" path="device/xiaomi/davinci" remote="github" revision="statix" />
+    <project name="ArianK16a/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/davinci" remote="github" revision="lineage-18.0" />
+
+</manifest>
